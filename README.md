@@ -61,7 +61,7 @@ For maximum stability and full feature support:
 ## Quick Start
 
 ```bash
-git clone https://github.com/BLACK-CYBER-TOOLS/BLACKTRACE.git
+git clone https://github.com/SentraSecurity/BLACKTRACE.git
 ```
 Select folder
 ```bash
