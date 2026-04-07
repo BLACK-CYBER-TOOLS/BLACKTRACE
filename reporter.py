@@ -35,8 +35,8 @@ def banner():
 ██████╔╝███████╗██║  ██║╚██████╗██║  ██╗   ██║   ██║  ██║██║  ██║╚██████╗███████╗
 ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚══════╝
         Passive & Active Recon Engine V 1.0 
-            Created by khamidjanow
-            Instagram @kham1djanow
+            Created by khamitjanow
+            Instagram @khamitjanow
 """, style="bold red", box=box.DOUBLE))
 
 # ================= MENU =================
